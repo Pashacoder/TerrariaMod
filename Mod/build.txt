@@ -1,0 +1,3 @@
+displayName = WeWe
+author = 1989
+version = 1.0
